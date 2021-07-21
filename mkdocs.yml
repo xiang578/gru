@@ -68,5 +68,6 @@ nav:
   - About:
     - Hi: index.md
     - Now: now.md
+    - ChangeLog: ChangeLog.md
   - 哲学: 
     - S: 哲学.md
