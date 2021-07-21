@@ -15,6 +15,7 @@ theme:
   language: zh # 中文，解决中文搜索问题
   features:
     - navigation.expand 
+    - navigation.sections
     - tabs 
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
