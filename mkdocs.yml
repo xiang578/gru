@@ -3,6 +3,9 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: Ryenotes
+repo_url: https://github.com/xiang578/xiang578.github.io
+repo_name: xiang578
+# edit_uri:
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -40,6 +43,7 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
 plugins:
+  - git-revision-date
   - search
   - roamlinks 
     #- autolinks 
@@ -56,9 +60,11 @@ copyright: 'Copyright &copy; 2021 - 2021 Ryen Xiang'
 google_analytics:
   - 'UA-65866729-2'
   - 'auto'
-
+extra:
+  disqus: "xiang578"
 nav:
   - About:
-    - H: index.md
+    - Hi: index.md
+    - Now: now.md
   - 哲学: 
     - S: 哲学.md
