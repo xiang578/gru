@@ -3,7 +3,7 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: Ryen 
-site_url: https://note.xiang578.com
+site_url: ""
 site_description: Ryen personal note site
 site_author: Ryen Xiang
 repo_url: https://github.com/xiang578/xiang578.github.io
