@@ -66,7 +66,7 @@ extra:
   disqus: "xiang578"
 nav:
   - About:
-    - Hi: 有关笔记.md
+    - Hi: index.md
     - Now: now.md
   - 哲学: 
     - S: 哲学.md
