@@ -1,0 +1,2 @@
+- [Water is fine (@ConanChou) / Twitter](https://twitter.com/conanchou)
+- [透明盒子计划·笔记·有关笔记](https://cbp.tldr.ink/#/notes/%E6%9C%89%E5%85%B3%E7%AC%94%E8%AE%B0.html)
