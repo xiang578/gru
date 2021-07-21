@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Foam-mkdocs-template
+site_name: Ryenotes
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -50,3 +50,15 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+
+# Copyright
+copyright: 'Copyright &copy; 2021 - 2021 Ryen Xiang'
+google_analytics:
+  - 'UA-65866729-2'
+  - 'auto'
+
+nav:
+  - About:
+    - H: index.md
+  - 哲学: 
+    - S: 哲学.md
