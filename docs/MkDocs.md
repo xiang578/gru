@@ -4,3 +4,7 @@
 ```shell
 mkdocs serve
 ```
+
+## 生成 sitemap.xml
+
+参考
