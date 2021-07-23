@@ -2,7 +2,7 @@
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
-site_name: Ryen 
+site_name: 算法花园・笔记
 site_url: https://note.xiang578.com/
 site_description: Ryen personal note site
 site_author: Ryen Xiang
@@ -71,8 +71,7 @@ nav:
     - Hi: index.md
     - Now: now.md
     - ChangeLog: ChangeLog.md
-  - 哲学: 
-    - S: 哲学.md
+  - 哲学: 哲学.md
   - Competitive Programming:
     - Competitive Programming: "CP/Competitive Programming.md"
     - LeetCode 题解:
