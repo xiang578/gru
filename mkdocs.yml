@@ -73,3 +73,5 @@ nav:
     - ChangeLog: ChangeLog.md
   - 哲学: 
     - S: 哲学.md
+  - Competitive Programming:
+    - Competitive Programming: "CP/Competitive Programming.md"
