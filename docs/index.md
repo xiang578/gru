@@ -2,15 +2,17 @@
 
 19 年底开始接触到 [[Zettelkasten]]，开始尝试讲对应的一些原则应用到自己的笔记实践中。然后，觉得自己的笔记和博客文章之间还应该存在一种中间形式，也就是称之为 [[Digital Garden]]（数字花园）。
 
-最后，你可以从 [[now|/now]] 开始了解我在干的事情。
+最后，你可以从下面几个页面开始了解我在做的事情。
+
+- [[now|/now]]
+- [[ChangeLog]]
+- [[TODO]]
 
 ---
 
 👋 Ryen ([Email](mailto:ryenxx@gmail.com), [Twitter](https://twitter.com/xiang578), [Blog](https://xiang578.com/))
 
 [[如何创建一个类似的网站]]（感谢 [[Conan Chou]]）。目前网站还没有完全改好，所以还存在部分透明盒子的痕迹。
-
-[[ChangeLog]]
 
 激励我创作的人：
 
