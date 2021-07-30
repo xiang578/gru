@@ -1,0 +1,1 @@
+查看基金溢价 [中国互联网指数基金净值计算工具](https://palmmicro.com/woody/res/chinainternetcn.php)。如果是长期价值投资，其实没有太多必要参考。
