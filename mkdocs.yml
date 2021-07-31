@@ -71,6 +71,8 @@ nav:
     - Hi: index.md
     - Now: now.md
     - ChangeLog: ChangeLog.md
+  - Paper:
+    - Paper.md
   - 哲学: 
     - 哲学: 哲学.md
   - 软件:
