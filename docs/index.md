@@ -7,13 +7,17 @@
 - [[now|/now]]
 - [[ChangeLog]]
 - [[TODO]]
-
----
+- [[Link|冲浪推荐]]
 
 👋 Ryen ([Email](mailto:ryenxx@gmail.com), [Twitter](https://twitter.com/xiang578), [Blog](https://xiang578.com/))
 
-[[如何创建一个类似的网站]]（感谢 [[Conan Chou]]）。目前网站还没有完全改好，所以还存在部分透明盒子的痕迹。
 
-激励我创作的人：
+---
 
-- [[Happy Xiao]]
+除了这个网站之外，我之前也尝试过通过其他方式构建数字花园。
+
+- [算法花园・有关笔记](https://notes.xiang578.com/#/notes/%E6%9C%89%E5%85%B3%E7%AC%94%E8%AE%B0.html)：[[如何创建一个类似的网站]]（感谢 [[Conan Chou]]）。网站最终都没有改好，存在部分透明盒子相关的痕迹。
+- [算法花园・Xanadu — 吾辈心中亦有惑，坐！](https://wiki.xiang578.com/#:Index)：使用 [[TiddlyWiki]] 制作的 wiki 站点。
+
+
+

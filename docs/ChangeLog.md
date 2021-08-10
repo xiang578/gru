@@ -2,9 +2,17 @@
 
 ## 2021
 
+### 2021 August
+
+- Note
+	- [[password]]
+- Paper
+	- [[Privileged Features Distillation at Taobao Recommendations]]
+	- [[Distilling the Knowledge in a Neural Network]]
+
 ### 2021 July
 
-- paper 
+- Paper 
 	- [[Informer| (2021)  Informer: Beyond Efﬁcient Transformer for Long Sequence Time-Series Forecasting]] 
 - Book
 	- [[苏格拉底之死]]
