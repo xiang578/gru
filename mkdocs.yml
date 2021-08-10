@@ -81,6 +81,7 @@ nav:
   - 软件:
     - Git: git.md
     - VS Code: "VS Code.md"
+    - 密码软件: "password.md"
   - Competitive Programming:
     - Competitive Programming: "CP/Competitive Programming.md"
     - LeetCode 检查清单: "CP/LeetCode CheckList.md"
