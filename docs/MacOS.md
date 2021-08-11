@@ -1,0 +1,4 @@
+- 关闭 Microsoft AutoUpdate
+	- 终端执行 `cd /Library/Application\ Support/Microsoft/MAU2.0`
+		- 法一：修改这个文件的可执行权限 `sudo chmod 000 Microsoft\ AutoUpdate.app`
+		- 法二：直接删除这个软件
