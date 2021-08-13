@@ -6,7 +6,7 @@
 
 - [[now|/now]]
 - [[ChangeLog]]
-- [[TODO]]
+- [[notes/TODO]]
 - [[Link|冲浪推荐]]
 
 👋 Ryen ([Email](mailto:ryenxx@gmail.com), [Twitter](https://twitter.com/xiang578), [Blog](https://xiang578.com/))

@@ -7,6 +7,7 @@
 - Note
 	- [[password]]
 	- [[图论]] 可能只会写一手最短路。。。
+	- [[Things3]] 印象里面主流的 todo App 就这个没有尝试过，现在正需要一个简单的清单软件。
 - Paper
 	- [[Privileged Features Distillation at Taobao Recommendations]]
 	- [[Distilling the Knowledge in a Neural Network]]
