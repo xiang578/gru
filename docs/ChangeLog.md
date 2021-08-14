@@ -11,6 +11,8 @@
 - Paper
 	- [[Privileged Features Distillation at Taobao Recommendations]]
 	- [[Distilling the Knowledge in a Neural Network]]
+- Another
+	- [[刘汉臣之死]]：听完故事 FM 阎鹤祥的专集后，特地补一下这段说书。
 
 ### 2021 July
 

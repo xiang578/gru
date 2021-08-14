@@ -73,12 +73,12 @@ nav:
     - ChangeLog: ChangeLog.md
     - 2021 Reading: "2021 Reading.md"
   - Paper:
-    - Paper.md
+    - "how to read a paper.md"
   - Book:
     - 哲学家都干了些什么: "哲学家都干了些什么.md"
   - 哲学: 
     - 哲学: 哲学.md
-  - 软件:
+  - 数字生活:
     - Git: git.md
     - VS Code: "VS Code.md"
     - 密码软件: "password.md"
