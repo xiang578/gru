@@ -65,7 +65,7 @@ extra:
   disqus: "xiang578"
   analytics:
     provider: google
-    property: G-282898644
+    property: UA-65866729-2
 nav:
   - About:
     - Hi: index.md
