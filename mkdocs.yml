@@ -58,14 +58,13 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
-
+google_analytics:
+  - UA-65866729-2
+  - auto
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2021 Ryen Xiang'
 extra:
   disqus: "xiang578"
-  analytics:
-    provider: google
-    property: UA-65866729-2
 nav:
   - About:
     - Hi: index.md
