@@ -61,11 +61,11 @@ plugins:
 
 # Copyright
 copyright: 'Copyright &copy; 2021 - 2021 Ryen Xiang'
-google_analytics:
-  - 'UA-65866729-2'
-  - 'auto'
 extra:
   disqus: "xiang578"
+  analytics:
+    provider: google
+    property: G-282898644
 nav:
   - About:
     - Hi: index.md
