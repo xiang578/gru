@@ -5,3 +5,7 @@
 - `Obsidian Git` 自动 Git 备份插件
 	- `Vault backup interval`配置自动 commit 和 push，默认关闭。
 - `Word Splitting for Simplified Chinese in Edit Mode` 增加内置编辑器对中文分词的支持，实现在编辑模式下双击选择词语。
+
+## Ref
+
+- [Obsidian 插件之 Dataview - 少数派 (sspai.com)](https://sspai.com/post/68183)

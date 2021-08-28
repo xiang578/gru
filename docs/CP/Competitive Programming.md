@@ -3,3 +3,4 @@
 > 定义来源于 [CP Wiki](https://cp-wiki.vercel.app/)
 
 
+[CF(codeforces)如何保持紫名及以上？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/367295530/answer/1366260341)
