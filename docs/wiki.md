@@ -3,6 +3,11 @@
 
 [gollum/gollum: A simple, Git-powered wiki with a sweet API and local frontend. (github.com)](https://github.com/gollum/gollum)
 
+### Gatsby
+
+- [theowenyoung/gatsby-theme-primer-wiki: A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files. (github.com)](https://github.com/theowenyoung/gatsby-theme-primer-wiki)
+
+
 ## Jeklly
 
 - [maximevaillancourt/digital-garden-jekyll-template: Start your own digital garden using this Jekyll template 🌱 (github.com)](https://github.com/maximevaillancourt/digital-garden-jekyll-template)

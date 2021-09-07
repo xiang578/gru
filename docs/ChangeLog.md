@@ -2,13 +2,22 @@
 
 ## 2021
 
-### 2021 August
+### [[2021 September]]
+
+- Note
+	- [[宝宝术]] 想不到暴雪这些零费随从都能进构筑，胡的时候还挺强的。
+	- [[鬼灵贼]] 练习这种卡组，然后被砍了是不是很伤？
+	- [[并查集]]
+
+
+### [[2021 August]]
 
 - Note
 	- [[password]]
 	- [[图论]] 可能只会写一手最短路......
 	- [[Things3]] 印象里面主流的 todo App 就这个没有尝试过，现在正需要一个简单清单软件。重新思考[[任务管理]]。
 	- [[炉石传说]] 这游戏也挺氪的
+		- [[任务术]] 马术，7 年老玩家第一次上传说！
 - Paper
 	- [[Privileged Features Distillation at Taobao Recommendations]]：阿里巴巴优势特征蒸馏
 	- [[Distilling the Knowledge in a Neural Network]]

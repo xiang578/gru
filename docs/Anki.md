@@ -1,4 +1,4 @@
-简单而强大的 flashcard 软件，可以实现知识的[[间隔重复]]。
+简单而强大的 flashcard 软件，可以实现知识的[[Spaced Repetition]]。
 
 目前使用的插件：
 
@@ -10,3 +10,4 @@
 References
 
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html)
+- [Spaced Repetition for Efficient Learning · Gwern.net](https://www.gwern.net/Spaced-repetition)
