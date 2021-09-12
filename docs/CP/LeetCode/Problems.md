@@ -5,6 +5,11 @@
 3. [5849. 好子集的数目](https://leetcode-cn.com/problems/the-number-of-good-subsets/) 枚举所有合法组合的个数
 4. [5866. 数组的最大公因数排序 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/gcd-sort-of-an-array/) 并查集 + [[素数筛]]，有相同因子的数会在同一个集合中。
 5. [5865. 访问完所有房间的第一天 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms/) 漏看一个条件，实际上是傻逼题，还是错了好几次，1e9 相加会爆 int 以及返回答案前也需要取模。
+6. [1977. 划分数字的方案数 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers/) 挺复杂的，写了好几个小时，看题解才过…… n=3500，暗示是 $O(n^2)$ 的算法
+	1. 设以 nums[i...j] 为结尾的方案数是 $dp_{i,j}$
+	2. 可以发现 $dp_{i,j}=\sum_{k=2*i-j-1}^{i-1}dp[k][i-1], dp_{i,j+1}=dp_{i,j} + dp_{2*i-j-2,i-1}$，维护一个前缀和。
+	3. 比较 nums[i...j] 和 nums[2*i-j-1...i-1]  大小，可以先预处理出以 i 和 j 开始的字符串的最大相同长度 lcp[i][j]。
+7. [LCP 42. 玩具套圈 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/vFjcfV/)
 
 ## [[2021 August]]
 
