@@ -9,7 +9,10 @@
 	1. 设以 nums[i...j] 为结尾的方案数是 $dp_{i,j}$
 	2. 可以发现 $dp_{i,j}=\sum_{k=2*i-j-1}^{i-1}dp[k][i-1], dp_{i,j+1}=dp_{i,j} + dp_{2*i-j-2,i-1}$，维护一个前缀和。
 	3. 比较 nums[i...j] 和 nums[2*i-j-1...i-1]  大小，可以先预处理出以 i 和 j 开始的字符串的最大相同长度 lcp[i][j]。
-7. [LCP 42. 玩具套圈 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/vFjcfV/)
+7. [LCP 42. 玩具套圈 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/vFjcfV/)：r 比较小，可以暴力枚举，被抬一手还是没有写出来。。。需要注意细节。不要提交 debug。
+8. [LCP 43. 十字路口的交通 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/Y1VbOX/)
+9. [36. 有效的数独 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/valid-sudoku/)：判断数独当前局面是否合法。
+	1. [37. 解数独 - 力扣（LeetCode） (leetcode-cn.com)](https://leetcode-cn.com/problems/sudoku-solver/)：求解数独，上一题的进阶。
 
 ## [[2021 August]]
 

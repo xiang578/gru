@@ -1,9 +1,8 @@
-
-如何将一堆 md 文件快速在网上发布：
+本质：如何将一堆 md 文件快速在网上发布
 
 [gollum/gollum: A simple, Git-powered wiki with a sweet API and local frontend. (github.com)](https://github.com/gollum/gollum)
 
-### Gatsby
+## Gatsby
 
 - [theowenyoung/gatsby-theme-primer-wiki: A Gatsby Theme for Wiki/Docs/Knowledge Base, which using Primer style as the UI theme, can work well with Foam or Obsibian or just markdown files. (github.com)](https://github.com/theowenyoung/gatsby-theme-primer-wiki)
 
@@ -16,4 +15,4 @@
 
 ## [[MkDocs]]
 
-[Jackiexiao/foam-mkdocs-template: using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin (github.com)](https://github.com/Jackiexiao/foam-mkdocs-template)
+- [Jackiexiao/foam-mkdocs-template: using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin (github.com)](https://github.com/Jackiexiao/foam-mkdocs-template)

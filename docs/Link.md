@@ -12,6 +12,8 @@
 - [期望最大化（洪亮劼的专栏） · 分享技术、管理、团队和业界的思考](http://column.hongliangjie.com/) LinkedIn工程总监、前Etsy工程总监、雅虎研究院高级研发经理，长期从事机器学习、大数据分析、个性化系统架构的研究；这是一个分享技术、管理、团队和业界思考的专栏。
 
 
+## 阅读
+- [技术宅Echo - J站 (okjike.com)](https://web.okjike.com/u/B8B536B8-5C76-49DD-BFA7-1B6283B3D663)
 ## 有趣的人
 
 - [yihong0618 (@yihong06181) / Twitter](https://twitter.com/yihong06181)
@@ -24,3 +26,8 @@
 		-   我发现这个世界上其实任何一门学科都挺有趣的，去读读前人都是怎么一步步的做那些学问尤其有趣。
 		-   有一种爱是放手。
 		-   是啊，唯有自己学到的知识，明白的道理才真正属于自己。
+
+## 个人 [[wiki]]
+
+- [Meta - Everything I know (nikitavoloboev.xyz)](https://wiki.nikitavoloboev.xyz/meta)
+- [Everything I Know by Owen - A Personal Knowledge Based Wiki (owenyoung.com)](https://wiki.owenyoung.com/)

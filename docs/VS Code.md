@@ -3,6 +3,10 @@
 
 [cdr/code-server: VS Code in the browser](https://github.com/cdr/code-server)：服务器版本 VS Code。由于公司内部服务器需要在堡垒机上跳转登陆，无法直接使用 VS Code Remote 。服务器安装后，可以在本地网页上使用 VS Code。
 
+## 设置
+
+- `Setting-Text Editor-Files-Files:Exclude` 指定文件列表中隐藏的文件类型。（屏蔽 .crc 之类的文件）
+
 ## 问题
 
 ### 解决 Vim mode 和输入法的冲突，自动切换输入法状态
