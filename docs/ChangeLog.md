@@ -1,6 +1,20 @@
-本页面灵感来自  [ChangeLog of Me | cf020031308.github.io](https://cf020031308.github.io/changelog.html) ！
+
 
 ## 2021
+
+
+[[2021 December]] 最后一个月
+
+- Note
+	- [[巨人术]] 两费技能好难受
+	- [[OKR]]
+	- [[笔记软件]]
+	- [[iPad]] 买来看论文（虽然没有这个习惯……），思考如何在日常生活中使用。
+- Book
+- Paper
+	- [[ViT An Image is Worth 16x16 Words Transformers for Image Recognition at Scale]]
+
+
 
 ### [[2021 November]]
 
@@ -9,14 +23,22 @@
 	- [[任务术]] 狂野已无「恶魔之钟」，整理一下之前记录的笔记。
 	- [[宇宙偶数术]] 10 月上传说卡组，T1 强度，内战靠贪！
 	- 先从 [[铁甲战士]] 开始练习
+	- [[生命平衡轮]]
+	- [[学习观]] 很早就收藏的视频，但是一直没有时间看。大概是从机器学习、认知科学角度解释学习，值得仔细看看。
 - Book
+	- [[沸腾新十年]]
 - Paper
+	- [[BERT]]
+	- [[Masked Autoencoders Are Scalable Vision Learners]]
+- People
+	- [[chyixian]] 文科博士在读，少数派中分享过几篇和阅读相关的文章
+	- [[润Rhuen]] 豆瓣网友，最近在申请博士，每月分享月记。
 
 
 ### [[2021 October]]：忙着述职，基本上没有整理什么
 
 - Game
-	- [[炉石传说| 佣兵战纪]] 又肝又氪，冲了 200 多连一个火焰队或自然队都没有开出来，pve 快速推图都做不到……弃坑
+	- [[佣兵战纪| 炉石传说 佣兵战纪]] 又肝又氪，冲了 200 多连一个火焰队或自然队都没有开出来，pve 快速推图都做不到……弃坑
 	- [[杀戮尖塔]] 卡牌 Rogue 游戏，比佣兵战纪不知道好玩多少倍！
 - Book
 	- [[创新者]]
@@ -81,3 +103,8 @@
 - blog
   - 合并「博客折腾记：使用 Travis CI 自动部署」到[博客折腾记：使用 Travis CI 自动部署博客 | 算法花园 (xiang578.com)](https://xiang578.com/post/use-travis-ci-to-auto-build-blog.html)
   - 新年新气象！使用[木子](https://blog.k8s.li/)修改的 [hexo-themes-next](https://github.com/muzi502/blog) 主题。
+
+
+## Ref
+
+本页面灵感来自  [ChangeLog of Me | cf020031308.github.io](https://cf020031308.github.io/changelog.html) ！

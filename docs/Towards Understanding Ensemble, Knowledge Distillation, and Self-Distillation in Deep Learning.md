@@ -1,0 +1,2 @@
+[Three mysteries in deep learning: Ensemble, knowledge distillation, and self-distillation - Microsoft Research](https://www.microsoft.com/en-us/research/blog/three-mysteries-in-deep-learning-ensemble-knowledge-distillation-and-self-distillation/)
+[深度学习三大谜团：集成、知识蒸馏和自蒸馏 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/347890400)

@@ -1,0 +1,2 @@
+- `from_unixtime(timestamp, 'yyyy-MM-dd HH:mm:ss')` 时间戳转成日期格式
+- `cast(string as bigint)` 字符串转成数值类型

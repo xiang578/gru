@@ -26,8 +26,17 @@
 		-   我发现这个世界上其实任何一门学科都挺有趣的，去读读前人都是怎么一步步的做那些学问尤其有趣。
 		-   有一种爱是放手。
 		-   是啊，唯有自己学到的知识，明白的道理才真正属于自己。
+-   [Verne in GitHub | Verne in GitHub](https://blog.einverne.info/) 数字生活方方面面
+	-   [Obsidian 未来的笔记应用 | Verne in GitHub](https://blog.einverne.info/post/2020/05/obsidian-note-taking.html)
+	-   [我的 Obsidian 笔记跨设备同步方案 | Verne in GitHub (einverne.info)](https://blog.einverne.info/post/2020/11/obsidian-sync-acrose-devices-solution.html)
+	-   [我的笔记法（借助 Zettelkasten 和 Obsidian） | Verne in GitHub](https://blog.einverne.info/post/2021/01/my-method-to-take-notes-using-zettelkasten-and-obsidian.html)
 
 ## 个人 [[wiki]]
 
 - [Meta - Everything I know (nikitavoloboev.xyz)](https://wiki.nikitavoloboev.xyz/meta)
 - [Everything I Know by Owen - A Personal Knowledge Based Wiki (owenyoung.com)](https://wiki.owenyoung.com/)
+- [棒棒彬的第二大脑 (binlogo.github.io)](https://binlogo.github.io/Knowledge-Track/Introduction.html)
+
+## 周刊
+
+- [棒棒彬·技术参考周刊 · 语雀 (yuque.com)](https://www.yuque.com/binboy/increment-magzine)：基于第二大脑的体系构建，以知识增量的方式，从时间维度衍生的在线周刊。
