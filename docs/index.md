@@ -1,24 +1,65 @@
-你好，我是 [[Ryen Xiang]]，欢迎来到我的笔记网站。这种形式的分享来源于 [[Andy Matuschak]] 的[Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) 以及 [[Conan Chou]] 的 [透明盒子计划·笔记·有关笔记](https://cbp.tldr.ink/#/notes/%E6%9C%89%E5%85%B3%E7%AC%94%E8%AE%B0.html)。
-
-19 年底接触到 [[Zettelkasten]]，开始尝试将对应的一些原则应用到笔记管理实践中。逐渐觉得私人笔记和博客文章之间还应该存在一种中间形式，也就是称之为 [[Digital Garden]]（数字花园）。
-
-最后，你可以从这几个页面开始了解我在做的事情：
-
-- [[now|/now]]
-- [[ChangeLog]]
-- [[Problems]]
-- [[Link|冲浪推荐]]
+```dataviewjs
+let ftMd = dv.pages("").file.sort(t => t.cday)[0]
+let total = parseInt([new Date() - ftMd.ctime] / (60*60*24*1000))
+dv.paragraph(
+	"距今已使用 "+total+" 天"
+)
+```
 
 
-👋 Ryen ([Email](mailto:ryenxx@gmail.com), [Twitter](https://twitter.com/xiang578), [Blog](https://xiang578.com/))
+```dataviewjs
+let nofold = '!"templates"'
+let allFile = dv.pages(nofold).file
+let totalMd = "共创建 "+
+	allFile.length+" 篇文档"
+let totalTag = allFile.etags.distinct().length+" 个标签"
+let totalTask = allFile.tasks.length+" 个待办 <br><br>"
+dv.paragraph(
+	totalMd+"、"+totalTag+"、"+totalTask
+)
+```
 
+## 进行中
 
----
+```dataview
+list
+from #inbox 
+sort file.ctime desc
+```
 
-除了这个网站之外，我之前也尝试过通过其他方式构建数字花园。
+```dataviewjs
+dv.paragraph(
+  dv.pages("").file.etags.distinct()
+  .sort(t => dv.pages(t).length , 'desc')
+  .map(
+  	t => {
+		return `[${t}](${t})`+"("+dv.pages(t).length+")"
+	}
+  ).array().join(" ")
+)
+```
 
-- [算法花园・有关笔记](https://notes.xiang578.com/#/notes/%E6%9C%89%E5%85%B3%E7%AC%94%E8%AE%B0.html)：[[如何创建一个类似的网站]]（感谢 [[Conan Chou]]）。网站最终都没有改好，存在部分透明盒子相关的痕迹。
-- [算法花园・Xanadu — 吾辈心中亦有惑，坐！](https://wiki.xiang578.com/#:Index)：使用 [[TiddlyWiki]] 制作的 wiki 站点。
+## 最近编辑
+```dataview
+table WITHOUT ID file.link AS "标题",file.mtime as "时间"
+from !"archive"
+sort file.mtime desc
+limit 5
+```
 
+## 最近创建
 
+```dataview
+table WITHOUT ID file.link AS "标题",file.ctime as "时间"
+from !"archive"
+sort file.ctime desc
+limit 5
+```
 
+## 归档
+
+```dataview
+table WITHOUT ID rows.file[0].day.year+"年"+rows.file[0].day.month+"月" as 月份,length(rows)+"篇" as 数量
+where !contains(file.folder, "templates")
+group by file.day.month
+```

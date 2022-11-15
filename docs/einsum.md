@@ -1,0 +1,2 @@
+- [Tim Rocktäschel](https://rockt.github.io/2018/04/30/einsum)
+- [如何最简单、通俗地理解Pytorch？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/439496333/answer/2347120169)
